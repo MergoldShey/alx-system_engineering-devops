@@ -2,4 +2,3 @@
 ## DevOps
 ### Network
 
-## **Auth: Afolabi John Oluwaseun**
