@@ -1,3 +1,4 @@
+![500](https://user-images.githubusercontent.com/105540954/224007160-5bb308f6-105b-48ff-8463-56f82e9c8724.png)
 
 
 # BooktifuL requests failure report
