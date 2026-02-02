@@ -8,7 +8,7 @@ It focuses on the environment where code lives, utilizing Shell scripting and sy
 ## ​ENGINEERING FOCUS
 
 * AUTOMATION: Using Shell scripts to streamline deployment and automate repetitive system tasks.
-​* INFRASTRUCTURE: Configuring and managing server environments for optimal backend performance.
+* INFRASTRUCTURE: Configuring and managing server environments for optimal backend performance.
 * RESILIENCE: Solving complex infrastructure hurdles under strict, professional deadlines.
 
 ## ​SKILLS DEMONSTRATED
